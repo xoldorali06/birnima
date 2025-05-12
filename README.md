@@ -1,1 +1,1 @@
-# birnima
+# newspaper
